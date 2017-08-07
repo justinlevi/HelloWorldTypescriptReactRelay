@@ -25,5 +25,9 @@
     "webpack",
     "jest",
     "src/setupTests.ts"
+  ],
+  "typeRoots": [
+    "custom_typings",
+    "node_modules/@types"
   ]
 }

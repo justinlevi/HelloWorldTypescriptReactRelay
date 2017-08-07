@@ -1,0 +1,24 @@
+{
+    "name": "@types/react-relay",
+    "version": "0.9.13",
+    "description": "TypeScript definitions for react-relay",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Johannes Schickling",
+            "url": "https://github.com/graphcool"
+        }
+    ],
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "peerDependencies": {},
+    "typesPublisherContentHash": "87363408e855fc4db444db0f5349d68f01269ad225d36ff40077bf1cac9a7572",
+    "typeScriptVersion": "2.3"
+}
